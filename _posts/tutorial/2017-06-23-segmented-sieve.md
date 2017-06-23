@@ -1,11 +1,12 @@
 ---
 layout: post
 title:   সেগমেন্টেড সিভ
+categories: [tutorial]
 tags:
 -  সেগমেন্টেড সিভ
 - Prime
-- Blog
-- Post
+- Number Theory
+- Programming
 ---
 
 
