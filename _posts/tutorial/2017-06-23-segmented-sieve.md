@@ -12,9 +12,10 @@ tags:
 
 
 
-# 
 
-#                             সেগমেন্টেড সিভ \(Segmented Sieve\)
+
+                            ## সেগমেন্টেড সিভ \(Segmented Sieve\)
+                            
 
 
 
