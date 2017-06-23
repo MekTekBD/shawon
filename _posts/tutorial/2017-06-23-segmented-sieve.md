@@ -3,7 +3,7 @@ layout: post
 title:   সেগমেন্টেড সিভ
 tags:
 -  সেগমেন্টেড সিভ
-- Tags
+- Prime
 - Blog
 - Post
 ---
