@@ -11,10 +11,6 @@ tags:
 
 
 
-
-
-
- ## সেগমেন্টেড সিভ (Segmented Sieve)<br><br>
                             
 
 
