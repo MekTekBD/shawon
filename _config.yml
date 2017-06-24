@@ -17,7 +17,7 @@ linkedin: ashadullah-shawon-b51606aa
 stackoverflow: users/3859220/shawon   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
 disqus: MekTek
-google_analytics: UA-69391421-1
+google_analytics: UA-79520588-3
 markdown: kramdown
 
 # needed for travis-ci build
