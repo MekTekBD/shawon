@@ -15,7 +15,7 @@ tags:
 **সুত্রঃ**
 
 ডিভিসর সংখ্যা নির্নয় এর জন্য প্রথমে n এর প্রাইম ফ্যাক্টর গুলো বের করে নিতে হবে। যে কোন সংখ্যা n হলে n  কে আমরা  প্রাইম সংখ্যার গুনফল আকারে লিখতে পারি। যেমনঃ n=১২ হলে,
-                                                     12= 2 * 2 * 3*
+                                                     $$12= 2 \times 2 \times 3$$
 
 এখানে প্রাইম ফ্যাক্টরগুলো হলঃ 2, 2 , 3
 
@@ -166,7 +166,7 @@ int main()
 
 
 
-**UVA 294 Divisors **এবং **LightOj 1028 Trailing Zero \(1\) **
+**UVA 294 Divisors** এবং **LightOj 1028 Trailing Zero \(1\)**
 
 এর প্রব্লেম এই নিয়মে সল্ভ করা যায়। কোডিং এ প্রব্লেম হলে [UVA 294 Divisors](http://shawonruet.blogspot.com/2016/07/uva-294-divisors.html) এবং [LightOj 1028 Trailing With Zeroes\(I\)](http://shawonruet.blogspot.com/2016/07/lightoj-1028-trailing-with-zeroes-i.html) এর সলুশন দেখতে পারো ।
 
