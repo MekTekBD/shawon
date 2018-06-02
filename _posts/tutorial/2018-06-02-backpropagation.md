@@ -303,7 +303,7 @@ w2=
  $$\frac{dE_{a_{o}}}{da_{h}}=\frac{dE_{a_{o}}}{dz_{o}}×\frac{d{z_{o}}}{da_{h}}$$
  
   $$\frac{dE_{a_{o}}}{da_{h}}=\frac{dE_{a_{o}}}{da_{o}}*\frac{d{a_{o}}}{dz_{o}}×\frac{d{z_{o}}}{da_{h}}$$
-$\frac{dE_{a_{o}}}{da_{o}}×\frac{d{a_{o}}}{dz_{o}}$ এর মান আমরা আগে বের করেছি $st$ দিয়ে। 
+$$\frac{dE_{a_{o}}}{da_{o}}×\frac{d{a_{o}}}{dz_{o}}$$ এর মান আমরা আগে বের করেছি $st$ দিয়ে। 
 
 তাহলে $$\frac{d{z_{o}}}{da_{h}}$$ এর মান বের করি,
 $$\frac{d{z_{o}}}{da_{h}}=\frac{d}{da_{h}}{(w_{7}×a_{h1}+w_{8}×a_{h2})}=w2$$
