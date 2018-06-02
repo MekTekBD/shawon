@@ -1,4 +1,13 @@
-﻿
+---
+layout: post
+title:  Multi Layer Perception And Back Propagation Step By Step in Bangla 
+categories: [tutorial]
+tags:
+- Machine Learning
+- Neural Network
+- Multi Layer Perception
+- Back Propagation
+---
 
 যারা স্র্যাচ থেকে (Multi layer Perception) মাল্টিলেয়ার পারসেপশন ও Back propagation কিভাবে কাজ করে বুঝার চেষ্টা করছে আশা করি তাদের কাজ এ দিবে এই লেখা। লেখার মধ্যে ভুল ভ্রান্তি হয়ে থাকলে অভিজ্ঞদের ঠিক করে দেয়ার জন্য উৎসাহিত করছি।  সহজে বোঝার জন্য এখানে XOR এর ডাটাসেট নিব । তাহলে ইনপুট এবং আউটপুট দেখা যাক।
                                                       $$Input$$
